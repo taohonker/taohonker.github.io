@@ -3,8 +3,8 @@
 
 *This website is under construction.*
 
-1. If you want to download my posters, [click here](posters/).
-2. If you want to contact me, please mail to [taohonker_at_gmail](mailto:taohonker@gmail.com).
+1. If you want to download my posters, [click here](posters).
+2. If you want to contact me, please mail to [taohonker@gmail.com](mailto:taohonker@gmail.com).
 
 ## About me
 
