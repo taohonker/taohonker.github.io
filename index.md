@@ -1,4 +1,8 @@
-# Welcome to Tao Huang's Home Page
+# Tao Huang
+
+![Tao Huang](avatar.jpeg)
+
+Welcome to Tao Huang's Home Page
 
 *⚠️ This website is under construction.*
 
