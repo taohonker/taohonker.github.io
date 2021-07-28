@@ -6,7 +6,7 @@ Welcome to Tao Huang's Home Page
 
 *⚠️ This website is under construction.*
 
-## About me
+## About Me
 
 I'm Tao Huang (黄韬), a Ph.D. of Science. I got my degree in 2020, at the Institute of Theoretical Physics, Lanzhou University, China.
 
