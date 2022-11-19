@@ -1,0 +1,2 @@
+- [Home](/)
+- [Projects](/projects.md)
