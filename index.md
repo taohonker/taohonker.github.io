@@ -1,5 +1,5 @@
 <center>
-# Tao Huang
+<h1 style="font-family:verdana;">Tao Huang</h1>
 
 ![Tao Huang](avatar.jpeg)
 
@@ -58,4 +58,4 @@ I'm seriously worried about AI, especially when they are implemented with quantu
 
 ---
 
-*[TaoHonker.Science](https://taohonker.science)©2018-2023. Powered by [docsify](https://docsify.js.org).*
+[TaoHonker.Science](https://taohonker.science)©2018-2023. Powered by [docsify](https://docsify.js.org).
