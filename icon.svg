@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 135.46666 135.46667"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="icon.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#d8d890"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     units="px"
+     width="512px"
+     inkscape:zoom="0.77771465"
+     inkscape:cx="397.31796"
+     inkscape:cy="561.25984"
+     inkscape:window-width="1249"
+     inkscape:window-height="1376"
+     inkscape:window-x="1311"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="241.78398"
+       y="128.43146"
+       width="16.596353"
+       height="67.651963"
+       id="rect41352" />
+    <rect
+       x="71.492428"
+       y="128.14214"
+       width="31.972496"
+       height="72.907817"
+       id="rect12438" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text12436"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect12438)" />
+    <text
+       xml:space="preserve"
+       style="font-size:89.9942px;line-height:1.75;font-family:sans-serif;word-spacing:0px;stroke-width:0.468718"
+       x="-10.877226"
+       y="122.13322"
+       id="text34304"
+       transform="matrix(1.0074647,-0.29532765,0.21741047,0.92885903,0,0)"
+       inkscape:transform-center-x="0.25678923"
+       inkscape:transform-center-y="-0.96303979"><tspan
+         sodipodi:role="line"
+         id="tspan34302"
+         style="font-size:89.9942px;stroke-width:0.468718"
+         x="-10.877226"
+         y="122.13322"><tspan
+           style="fill:#0000ff;fill-opacity:1"
+           id="tspan53961">τ</tspan><tspan
+           style="fill:#ff0000;fill-opacity:1"
+           id="tspan53071">ℏ</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text41350"
+       style="line-height:1.25;font-family:sans-serif;font-size:40px;word-spacing:0px;white-space:pre;shape-inside:url(#rect41352)" />
+  </g>
+</svg>
