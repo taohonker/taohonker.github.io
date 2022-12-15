@@ -54,7 +54,7 @@ I currently focus on the study of solid-solid phase transitions of the anisotrop
 
 I'm seriously worried about AI, especially when they are implemented with quantum stochastical devices. I believe the intelligence of human beings is driven by and thus limited by the thermal noise of biological systems. It takes millions of years for the earth to get the point that you can understand this sentence. However, just think how slow we are compared to the machines we make, and how big a Hilbert space can be compared to the phase space of our classical and thermal brain! We can't imagine how fast it will be that a quantum AI beat over us human beings in intelligence. A year? A day? Or the minute it's powered on? More Ironically, you won't know if it's a **REAL AI** unless you power it on!
 
-\(Last updated: Nov. 20, 2022\)
+\(Last updated: Dec. 14, 2022\)
 
 ---
 
